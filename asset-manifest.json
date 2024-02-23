@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BMI-Calculator/static/css/main.d4d555da.css",
-    "main.js": "/BMI-Calculator/static/js/main.9552c83e.js",
+    "main.css": "/BMI-Calculator/static/css/main.b16b6961.css",
+    "main.js": "/BMI-Calculator/static/js/main.4ff99e5e.js",
     "static/js/453.83bdee10.chunk.js": "/BMI-Calculator/static/js/453.83bdee10.chunk.js",
     "static/media/background.jpg": "/BMI-Calculator/static/media/background.8017c12d69b9c1a56936.jpg",
     "index.html": "/BMI-Calculator/index.html",
-    "main.d4d555da.css.map": "/BMI-Calculator/static/css/main.d4d555da.css.map",
-    "main.9552c83e.js.map": "/BMI-Calculator/static/js/main.9552c83e.js.map",
+    "main.b16b6961.css.map": "/BMI-Calculator/static/css/main.b16b6961.css.map",
+    "main.4ff99e5e.js.map": "/BMI-Calculator/static/js/main.4ff99e5e.js.map",
     "453.83bdee10.chunk.js.map": "/BMI-Calculator/static/js/453.83bdee10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d555da.css",
-    "static/js/main.9552c83e.js"
+    "static/css/main.b16b6961.css",
+    "static/js/main.4ff99e5e.js"
   ]
 }
